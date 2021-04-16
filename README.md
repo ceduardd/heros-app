@@ -1,4 +1,4 @@
-# Heros App
+# Heroes App
 
 Multiple routers, protecting routes and filters with url params. Unit test with Jest.
 
